@@ -43,5 +43,5 @@ Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador
   
 ## 📫 Contact
 - Email: aroman222@hotmail.com
-- LinkedIn: [[Your LinkedIn Profile URL]](https://www.linkedin.com/in/anroman/)
-- Behance: [[Your Portfolio URL]](https://www.behance.net/anroman)
+- LinkedIn: https://www.linkedin.com/in/anroman/
+- Behance: https://www.behance.net/anroman
