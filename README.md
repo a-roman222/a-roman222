@@ -30,7 +30,7 @@ Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador
 
 ##💻 Skills
 - Front-End: HTML, CSS, JavaScript, TypeScript, Vue.js
-- Back-End: Node.js, Express, PostgreSQL, MySQL, MongoDB
+- Back-End: Node.js, Express, PostgreSQL, MySQL, MongoDB, Ruby, Python
 - Tools: Git, Photoshop, Illustrator
 - UI/UX Design: User-centered design, Prototyping, Wireframing
 - Languages: English and Spanish
