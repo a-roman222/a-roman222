@@ -22,8 +22,9 @@ Designed and managed databases with MongoDB and MySQL.
 Provided desktop technical support for enhanced system reliability.
 
 ## 🎓 Education
-- Business Information Technology Diploma (Expected December 13, 2024)
+- Business Information Technology Diploma (Honours Graduate)
 Red River College Polytechnic, Winnipeg, MB
+
 
 - Bachelor's Degree in Web Design & Multimedia Applications
 Escuela Superior Politécnica del Litoral, Guayaquil, Ecuador
